@@ -1,0 +1,7 @@
+name: DartRouteChecker
+description: A sample web application
+dependencies:
+  angular: any
+  browser: any
+transformers:
+- angular
